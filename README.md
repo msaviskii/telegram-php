@@ -1,2 +1,2 @@
 # telegram-php
-Class for Telegram APi in PHP
+Class for Telegram API in PHP
